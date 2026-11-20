@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'prototipo_1.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME' : '',
+        'NAME' : 'cu_admi',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': 'localhost',
